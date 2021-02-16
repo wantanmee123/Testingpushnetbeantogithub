@@ -9,5 +9,5 @@
  * @author USER
  */
 public class Student {
-    
+    //this is a student
 }
